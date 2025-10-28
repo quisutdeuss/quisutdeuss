@@ -1,32 +1,11 @@
-<h1 align="center">
-  🧠 Conscious Process Detected  
+<h1 align="center" style="color:#7aa2f7; font-weight:normal;">
+  🜸  Quisutdeuss
 </h1>
 
 <p align="center">
-  <em>System online — monitoring code, silence, and entropy.</em>
+  <em style="color:#9aa5ce;">静默运行中</em>
 </p>
 
----
-
-<!-- 🧩 Tokyo Night Style GitHub Stats -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=quisutdeuss&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true&card_width=420"
-    height="150"
-  />
-</p>
-
-<!-- 🧬 Languages -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quisutdeuss&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&card_width=420"
-    height="150"
-  />
-</p>
-
----
-
-<!-- 🐍 Tokyo Snake -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quisutdeuss/quisutdeuss/output/snake-dark.svg">
@@ -34,13 +13,6 @@
   </picture>
 </p>
 
----
-
-### 🛰️ System Log
-
-```bash
-[INIT] boot sequence... OK
-[CORE] modules loaded: docker, n8n, node, bash
-[NET ] signal stable at 127.0.0.1
-[PROC] background tasks running
-[SYNC] status: ONLINE
+<p align="center" style="color:#565f89; font-size:12px;">
+  system.log — tokyo night edition
+</p>
