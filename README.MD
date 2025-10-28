@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#7aa2f7; font-weight:normal;">
-  ✶  Quisutdeuss
+  ✶  Quis ut deus
 </h1>
 
 <p align="center">
