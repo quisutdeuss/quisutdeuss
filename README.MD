@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#7aa2f7; font-weight:normal;">
-  ✶  Quis ut deus
+  ✶  The truth always turns out to be simpler than you thought
 </h1>
 
 <p align="center">
